@@ -32,7 +32,7 @@ public class Utils {
         fans.add(new FCBayernMunichFan("Name1","+491141324", new LatLng(48.2267965,11.6721379), "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/15941485_1348098251878072_5058844172150348009_n.jpg?oh=b1f8d4743838da7893fa78a3e18ebf14&oe=5AEBD653"));
         fans.add(new FCBayernMunichFan("Name2","+491141324", new LatLng(48.2267985,11.6776379), "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/15941485_1348098251878072_5058844172150348009_n.jpg?oh=b1f8d4743838da7893fa78a3e18ebf14&oe=5AEBD653"));
         fans.add(new FCBayernMunichFan("Name3","+491231324", new LatLng(48.2267985,11.6771379), "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/15941485_1348098251878072_5058844172150348009_n.jpg?oh=b1f8d4743838da7893fa78a3e18ebf14&oe=5AEBD653"));
-        fans.add(new FCBayernMunichFan("Name4","+4912141324", new LatLng(48.2267985,11.6771379), "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/15941485_1348098251878072_5058844172150348009_n.jpg?oh=b1f8d4743838da7893fa78a3e18ebf14&oe=5AEBD653"));
+        fans.add(new FCBayernMunichFan("Madalin Cosma","+40726229151", new LatLng(48.1382694,11.4975091), "https://www.facebook.com/photo.php?fbid=2034148616869457&l=2c059b549c"));
         return fans;
     }
 }
