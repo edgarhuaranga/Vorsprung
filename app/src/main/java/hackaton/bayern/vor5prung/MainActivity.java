@@ -101,17 +101,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     dialog.setContentView(R.layout.dialog_register_fan);
 
 
-
-                    ImageView image = (ImageView) dialog.findViewById(R.id.fcbayern_pin);
-                    ImageView imageRival = (ImageView) dialog.findViewById(R.id.bremen_pin);
-                    Glide.with(getApplicationContext())
-                            .load(R.drawable.fcbayern)
-                            .into(image);
-
-                    Glide.with(getApplicationContext())
-                            .load(R.drawable.bremen)
-                            .into(imageRival);
-
                     dialog.show();
                 } else {
 

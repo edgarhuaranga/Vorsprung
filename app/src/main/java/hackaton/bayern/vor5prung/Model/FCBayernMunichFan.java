@@ -50,4 +50,9 @@ public class FCBayernMunichFan {
     public void setPhotoURL(String photoURL) {
         this.photoURL = photoURL;
     }
+
+    @Override
+    public String toString() {
+        return name + '#' + phoneNumber + "#" + photoURL+"#"+position.latitude+","+position.longitude;
+    }
 }
